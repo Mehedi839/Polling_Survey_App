@@ -1,0 +1,129 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/4VdXPmy/1.jpg",
+      "name": "Toyota Corolla",
+      "brand": "Toyota",
+      "type": "Car",
+      "price": 25000,
+      "description": "The Toyota Corolla is a popular compact car known for its reliability, fuel efficiency, and comfortable ride. It is a perfect choice for daily commuting and family trips.",
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/L1BSWZ3/2.jpg",
+      "name": "Ford Mustang",
+      "brand": "Ford",
+      "type": "Car",
+      "price": 40000,
+      "description": "The Ford Mustang is an iconic American muscle car with a powerful engine and sleek design. It offers a thrilling driving experience and turns heads wherever it goes.",
+      "rating": 4.8
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/WkSkZTH/istockphoto-1157655660-612x612.jpg",
+      "name": "BMW 3 Series",
+      "brand": "BMW",
+      "type": "Car",
+      "price": 45000,
+      "description": "The BMW 3 Series is a luxury sedan that combines performance, elegance, and advanced technology. It delivers a smooth ride and luxurious interior, making it a top choice among car enthusiasts.",
+      "rating": 4.7
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/F4xyJwG/4.jpg",
+      "name": "Mercedes-Benz E-Class",
+      "brand": "Mercedes-Benz",
+      "type": "Car",
+      "price": 55000,
+      "description": "The Mercedes-Benz E-Class is a sophisticated executive sedan with cutting-edge technology and opulent features. It offers a comfortable and refined driving experience, making it a symbol of luxury and prestige.",
+      "rating": 4.9
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/rQhYR58/5.jpg",
+      "name": "Tesla Model S",
+      "brand": "Tesla",
+      "type": "Car",
+      "price": 70000,
+      "description": "The Tesla Model S is an all-electric luxury sedan known for its impressive acceleration, long-range capabilities, and autonomous driving features. It is at the forefront of electric vehicle technology.",
+      "rating": 4.6
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/HYr8MBH/6.jpg",
+      "name": "Honda Civic",
+      "brand": "Honda",
+      "type": "Car",
+      "price": 22000,
+      "description": "The Honda Civic is a reliable and fuel-efficient compact car. It offers a comfortable interior, practical features, and excellent resale value. It's a favorite choice among budget-conscious buyers.",
+      "rating": 4.4
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/Yc6fkkv/7.jpg",
+      "name": "Audi A4",
+      "brand": "Audi",
+      "type": "Car",
+      "price": 48000,
+      "description": "The Audi A4 is a premium compact sedan that combines performance, luxury, and advanced technology. It boasts a stylish design, powerful engine options, and a high-quality interior.",
+      "rating": 4.7
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/SKGtkWc/8.jpg",
+      "name": "Chevrolet Silverado",
+      "brand": "Chevrolet",
+      "type": "Truck",
+      "price": 35000,
+      "description": "The Chevrolet Silverado is a reliable and versatile pickup truck known for its towing capacity and cargo space. It is a popular choice among truck enthusiasts and business owners.",
+      "rating": 4.5
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/dg6rQw7/9s.jpg",
+      "name": "Subaru Outback",
+      "brand": "Subaru",
+      "type": "SUV",
+      "price": 32000,
+      "description": "The Subaru Outback is a rugged and capable SUV with all-wheel drive and generous ground clearance. It is perfect for outdoor enthusiasts and those who enjoy off-road adventures.",
+      "rating": 4.6
+    },
+    {
+      "id": 10,
+      "image": "https://i.ibb.co/TT6sKgV/10.jpg",
+      "name": "Nissan Rogue",
+      "brand": "Nissan",
+      "type": "SUV",
+      "price": 28000,
+      "description": "The Nissan Rogue is a compact SUV that offers a comfortable ride, spacious interior, and advanced safety features. It is a family-friendly SUV with practical design and good fuel efficiency.",
+      "rating": 4.4
+    },
+    {
+      "id": 11,
+      "image": "https://i.ibb.co/Svcc43h/12.jpg",
+      "name": "Jeep Wrangler",
+      "brand": "Jeep",
+      "type": "SUV",
+      "price": 38000,
+      "description": "The Jeep Wrangler is an iconic off-road SUV known for its rugged capabilities and open-air driving experience. It is the perfect choice for adventure seekers and outdoor enthusiasts.",
+      "rating": 4.8
+    },
+    {
+      "id": 12,
+      "image": "https://i.ibb.co/sJpYmpB/13.jpg",
+      "name": "Hyundai Sonata",
+      "brand": "Hyundai",
+      "type": "Car",
+      "price": 26000,
+      "description": "The Hyundai Sonata is a midsize sedan that offers a comfortable ride, user-friendly technology, and excellent fuel efficiency. It provides a smooth and reliable driving experience for daily commuting.",
+      "rating": 4.5
+    }
+  ]
+
+
+
+
+
+
+
